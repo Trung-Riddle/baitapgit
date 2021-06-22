@@ -1,4 +1,4 @@
-console.log('master');
-function devFunction(){
-    console.log('dev branch');
+
+function testFunction(){
+    console.log('test branch');
 }
