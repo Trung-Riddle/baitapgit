@@ -1,4 +1,4 @@
 
-function testFunction(){
-    console.log('test branch');
+function deployFunction(){
+    console.log('deploy branch');
 }
