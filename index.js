@@ -9,3 +9,4 @@ function chechTask(){
     console.log('check task');
 }
 >>>>>>> branchTest
+console.log('done');
